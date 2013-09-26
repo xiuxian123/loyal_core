@@ -49,7 +49,6 @@ Gem::Specification.new do |s|
 
   # 图片上传
   s.add_dependency 'carrierwave'
-  #  gem 'carrierwave-mongoid'
   s.add_dependency 'mini_magick'
 
   s.add_dependency "loyal_rails_kindeditor"
